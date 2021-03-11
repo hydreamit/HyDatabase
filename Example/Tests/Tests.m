@@ -2,8 +2,8 @@
 //  HyDatabaseTests.m
 //  HyDatabaseTests
 //
-//  Created by hydreamit on 03/11/2021.
-//  Copyright (c) 2021 hydreamit. All rights reserved.
+//  Created by hydreamit on 03/11/2017.
+//  Copyright (c) 2017 hydreamit. All rights reserved.
 //
 
 @import XCTest;

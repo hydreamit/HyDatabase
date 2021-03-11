@@ -1,0 +1,23 @@
+PODS:
+  - HyDatabase (0.1.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - HyDatabase (from `../`)
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - YYModel
+
+EXTERNAL SOURCES:
+  HyDatabase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HyDatabase: 337139d55bd932304d8e311a4a7233ee269cf6d3
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 94d03bd7020c6d4326d43e0135de01824a086d69
+
+COCOAPODS: 1.9.3

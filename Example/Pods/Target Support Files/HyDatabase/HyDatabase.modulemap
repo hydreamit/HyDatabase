@@ -1,0 +1,6 @@
+framework module HyDatabase {
+  umbrella header "HyDatabase-umbrella.h"
+
+  export *
+  module * { export * }
+}

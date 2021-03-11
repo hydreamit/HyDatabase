@@ -1,0 +1,6 @@
+framework module Pods_HyDatabase_Tests {
+  umbrella header "Pods-HyDatabase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

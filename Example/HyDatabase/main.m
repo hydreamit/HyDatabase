@@ -2,16 +2,16 @@
 //  main.m
 //  HyDatabase
 //
-//  Created by hydreamit on 03/11/2021.
-//  Copyright (c) 2021 hydreamit. All rights reserved.
+//  Created by hydreamit on 03/11/2017.
+//  Copyright (c) 2017 hydreamit. All rights reserved.
 //
 
 @import UIKit;
-#import "HYAppDelegate.h"
+#import "HyAppDelegate.h"
 
 int main(int argc, char * argv[])
 {
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([HYAppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([HyAppDelegate class]));
     }
 }

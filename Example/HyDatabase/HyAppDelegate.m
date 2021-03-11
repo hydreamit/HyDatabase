@@ -1,14 +1,14 @@
 //
-//  HYAppDelegate.m
+//  HyAppDelegate.m
 //  HyDatabase
 //
-//  Created by hydreamit on 03/11/2021.
-//  Copyright (c) 2021 hydreamit. All rights reserved.
+//  Created by hydreamit on 03/11/2017.
+//  Copyright (c) 2017 hydreamit. All rights reserved.
 //
 
-#import "HYAppDelegate.h"
+#import "HyAppDelegate.h"
 
-@implementation HYAppDelegate
+@implementation HyAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
